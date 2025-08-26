@@ -1,0 +1,72 @@
+item_id,dimensions,position,rotation_type,bin_assigned
+Item-12,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[0, 0, 0]",0,Tata Ace
+Item-13,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[21, 0, 0]",0,Tata Ace
+Item-14,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[42, 0, 0]",0,Tata Ace
+Item-15,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[63, 0, 0]",0,Tata Ace
+Item-6,"[Decimal('4.000'), Decimal('63.000'), Decimal('36.000')]","[84, 0, 0]",0,Tata Ace
+Item-11,"[Decimal('48.000'), Decimal('18.000'), Decimal('18.000')]","[147, 0, 0]",0,Tata Ace
+Item-9,"[Decimal('33.000'), Decimal('25.000'), Decimal('20.000')]","[165, 0, 0]",0,Tata Ace
+Item-7,"[Decimal('62.000'), Decimal('26.000'), Decimal('22.000')]","[190, 0, 0]",0,Tata Ace
+Item-12,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[0, 0, 0]",0,Bolero Pickup
+Item-13,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[21, 0, 0]",0,Bolero Pickup
+Item-14,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[42, 0, 0]",0,Bolero Pickup
+Item-15,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[63, 0, 0]",0,Bolero Pickup
+Item-6,"[Decimal('4.000'), Decimal('63.000'), Decimal('36.000')]","[84, 0, 0]",0,Bolero Pickup
+Item-11,"[Decimal('48.000'), Decimal('18.000'), Decimal('18.000')]","[147, 0, 0]",0,Bolero Pickup
+Item-9,"[Decimal('33.000'), Decimal('25.000'), Decimal('20.000')]","[165, 0, 0]",0,Bolero Pickup
+Item-7,"[Decimal('62.000'), Decimal('26.000'), Decimal('22.000')]","[190, 0, 0]",0,Bolero Pickup
+Item-1,"[Decimal('36.000'), Decimal('33.000'), Decimal('30.000')]","[216, 0, 0]",0,Bolero Pickup
+Item-12,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[0, 0, 0]",0,Eicher 14 ft
+Item-13,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[21, 0, 0]",0,Eicher 14 ft
+Item-14,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[42, 0, 0]",0,Eicher 14 ft
+Item-15,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[63, 0, 0]",0,Eicher 14 ft
+Item-6,"[Decimal('4.000'), Decimal('63.000'), Decimal('36.000')]","[84, 0, 0]",0,Eicher 14 ft
+Item-11,"[Decimal('48.000'), Decimal('18.000'), Decimal('18.000')]","[147, 0, 0]",0,Eicher 14 ft
+Item-9,"[Decimal('33.000'), Decimal('25.000'), Decimal('20.000')]","[165, 0, 0]",0,Eicher 14 ft
+Item-7,"[Decimal('62.000'), Decimal('26.000'), Decimal('22.000')]","[190, 0, 0]",0,Eicher 14 ft
+Item-1,"[Decimal('36.000'), Decimal('33.000'), Decimal('30.000')]","[216, 0, 0]",0,Eicher 14 ft
+Item-2,"[Decimal('33.000'), Decimal('36.000'), Decimal('32.000')]","[0, 15, 0]",0,Eicher 14 ft
+Item-8,"[Decimal('66.000'), Decimal('27.000'), Decimal('24.000')]","[36, 15, 0]",0,Eicher 14 ft
+Item-10,"[Decimal('36.000'), Decimal('66.000'), Decimal('30.000')]","[84, 36, 0]",0,Eicher 14 ft
+Item-4,"[Decimal('78.000'), Decimal('54.000'), Decimal('21.000')]","[150, 36, 0]",0,Eicher 14 ft
+Item-12,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[0, 0, 0]",0,Eicher 17 ft
+Item-13,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[21, 0, 0]",0,Eicher 17 ft
+Item-14,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[42, 0, 0]",0,Eicher 17 ft
+Item-15,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[63, 0, 0]",0,Eicher 17 ft
+Item-6,"[Decimal('4.000'), Decimal('63.000'), Decimal('36.000')]","[84, 0, 0]",0,Eicher 17 ft
+Item-11,"[Decimal('48.000'), Decimal('18.000'), Decimal('18.000')]","[147, 0, 0]",0,Eicher 17 ft
+Item-9,"[Decimal('33.000'), Decimal('25.000'), Decimal('20.000')]","[165, 0, 0]",0,Eicher 17 ft
+Item-7,"[Decimal('62.000'), Decimal('26.000'), Decimal('22.000')]","[190, 0, 0]",0,Eicher 17 ft
+Item-1,"[Decimal('36.000'), Decimal('33.000'), Decimal('30.000')]","[216, 0, 0]",0,Eicher 17 ft
+Item-2,"[Decimal('33.000'), Decimal('36.000'), Decimal('32.000')]","[0, 15, 0]",0,Eicher 17 ft
+Item-8,"[Decimal('66.000'), Decimal('27.000'), Decimal('24.000')]","[36, 15, 0]",0,Eicher 17 ft
+Item-10,"[Decimal('36.000'), Decimal('66.000'), Decimal('30.000')]","[84, 36, 0]",0,Eicher 17 ft
+Item-4,"[Decimal('78.000'), Decimal('54.000'), Decimal('21.000')]","[150, 36, 0]",0,Eicher 17 ft
+Item-12,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[0, 0, 0]",0,Eicher 19 ft
+Item-13,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[21, 0, 0]",0,Eicher 19 ft
+Item-14,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[42, 0, 0]",0,Eicher 19 ft
+Item-15,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[63, 0, 0]",0,Eicher 19 ft
+Item-6,"[Decimal('4.000'), Decimal('63.000'), Decimal('36.000')]","[84, 0, 0]",0,Eicher 19 ft
+Item-11,"[Decimal('48.000'), Decimal('18.000'), Decimal('18.000')]","[147, 0, 0]",0,Eicher 19 ft
+Item-9,"[Decimal('33.000'), Decimal('25.000'), Decimal('20.000')]","[165, 0, 0]",0,Eicher 19 ft
+Item-7,"[Decimal('62.000'), Decimal('26.000'), Decimal('22.000')]","[190, 0, 0]",0,Eicher 19 ft
+Item-1,"[Decimal('36.000'), Decimal('33.000'), Decimal('30.000')]","[216, 0, 0]",0,Eicher 19 ft
+Item-2,"[Decimal('33.000'), Decimal('36.000'), Decimal('32.000')]","[0, 15, 0]",0,Eicher 19 ft
+Item-8,"[Decimal('66.000'), Decimal('27.000'), Decimal('24.000')]","[36, 15, 0]",0,Eicher 19 ft
+Item-10,"[Decimal('36.000'), Decimal('66.000'), Decimal('30.000')]","[84, 36, 0]",0,Eicher 19 ft
+Item-4,"[Decimal('78.000'), Decimal('54.000'), Decimal('21.000')]","[150, 36, 0]",0,Eicher 19 ft
+Item-12,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[0, 0, 0]",0,22 ft Container
+Item-13,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[21, 0, 0]",0,22 ft Container
+Item-14,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[42, 0, 0]",0,22 ft Container
+Item-15,"[Decimal('15.000'), Decimal('21.000'), Decimal('15.000')]","[63, 0, 0]",0,22 ft Container
+Item-6,"[Decimal('4.000'), Decimal('63.000'), Decimal('36.000')]","[84, 0, 0]",0,22 ft Container
+Item-11,"[Decimal('48.000'), Decimal('18.000'), Decimal('18.000')]","[147, 0, 0]",0,22 ft Container
+Item-9,"[Decimal('33.000'), Decimal('25.000'), Decimal('20.000')]","[165, 0, 0]",0,22 ft Container
+Item-7,"[Decimal('62.000'), Decimal('26.000'), Decimal('22.000')]","[190, 0, 0]",0,22 ft Container
+Item-1,"[Decimal('36.000'), Decimal('33.000'), Decimal('30.000')]","[216, 0, 0]",0,22 ft Container
+Item-2,"[Decimal('33.000'), Decimal('36.000'), Decimal('32.000')]","[0, 15, 0]",0,22 ft Container
+Item-8,"[Decimal('66.000'), Decimal('27.000'), Decimal('24.000')]","[36, 15, 0]",0,22 ft Container
+Item-10,"[Decimal('36.000'), Decimal('66.000'), Decimal('30.000')]","[84, 36, 0]",0,22 ft Container
+Item-4,"[Decimal('78.000'), Decimal('54.000'), Decimal('21.000')]","[150, 36, 0]",0,22 ft Container
+Item-3,"[Decimal('30.000'), Decimal('78.000'), Decimal('72.000')]","[0, 47, 0]",2,22 ft Container
+Item-5,"[Decimal('84.000'), Decimal('72.000'), Decimal('30.000')]","[150, 57, 0]",0,22 ft Container

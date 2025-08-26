@@ -1,0 +1,62 @@
+[
+    {
+        "Truck Type": "Tata Ace",
+        "Length (ft)": 7.0,
+        "Width (ft)": 4.0,
+        "Height (ft)": 5.0,
+        "Dimensions (LWH)":"7 ft * 4ft * 5ft",
+        "Volume (cu ft)": "140 cu ft",
+        "Payload (kg)": "~600-750 kg",
+        "Notes": "Ideal for 1RK/1BHK"
+    },
+    {
+        "Truck Type": "Bolero Pickup",
+        "Length (ft)": 8.0,
+        "Width (ft)": 5.0,
+        "Height (ft)": 5.0,
+        "Dimensions (L \u00d7 W \u00d7 H)":"8 ft \u00d7 5 ft \u00d7 5 ft",
+        "Volume (cu ft)": 200,
+        "Payload (kg)": 1000,
+        "Notes": "Common mover truck"
+    }, 
+    {
+        "Truck Type": "Eicher 14 ft",
+        "Length (ft)": 14.0,
+        "Width (ft)": 6.5,
+        "Height (ft)": 6.5,
+        "Dimensions (L \u00d7 W \u00d7 H)":"14 ft \u00d7 6.5 ft \u00d7 6.5 ft",
+        "Volume (cu ft)": "~592 cu ft",
+        "Payload (kg)": "~3500-5000 kg",
+        "Notes": "Most popular for 2BHK"
+    },
+    {
+        "Truck Type": "Eicher 17 ft",
+        "Length (ft)": 17.0,
+        "Width (ft)": 7.0,
+        "Height (ft)": 7.0,
+        "Dimensions (L \u00d7 W \u00d7 H)":"17 ft \u00d7 7 ft \u00d7 7 ft",
+        "Volume (cu ft)": "~833 cu ft",
+        "Payload (kg)": "~6-7 tons",
+        "Notes": "For 3BHK or combo moves"
+    },
+    {
+        "Truck Type": "Eicher 19 ft",
+        "Length (ft)": 19.0,
+        "Width (ft)": 7.0,
+        "Height (ft)": 7.0,
+        "Dimensions (L \u00d7 W \u00d7 H)":"19 ft \u00d7 7 ft \u00d7 7 ft",
+        "Volume (cu ft)": "~931 cu ft",
+        "Payload (kg)": "~7-8 tons",
+        "Notes": "Suitable for larger loads"
+    },
+    {
+        "Truck Type": "22 ft Container",
+        "Length (ft)": 22.0,
+        "Width (ft)": 7.5,
+        "Height (ft)": 8.0,
+        "Dimensions (L \u00d7 W \u00d7 H)":"22 ft \u00d7 7.5 ft \u00d7 8 ft",
+        "Volume (cu ft)": "~1320 cu ft",
+        "Payload (kg)": "8-10 tons",
+        "Notes": "Often used for intercity Moves"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Truck Type": "Tata Ace",
+        "Length (ft)": 7.0,
+        "Width (ft)": 4.0,
+        "Height (ft)": 5.0,
+        "Dimensions (LWH)":"7 ft * 4ft * 5ft",
+        "Volume (cu ft)": "140",
+        "Payload (kg)": "~600-750 kg",
+        "Notes": "Ideal for 1RK/1BHK"
+    }]
+    
