@@ -46,7 +46,7 @@ for category in data.get("inventory", []):
                     "Total Volume (cuft)": total_volume
                 })
 df = pd.DataFrame(filtered_items)
-print(df.to_string(index=True))
+#print(df.to_string(index=True))
 df.to_csv("filtered_inventory.csv", index=True)
 
 with open('internship/data copy.json', 'r') as f: data = json.load(f)
